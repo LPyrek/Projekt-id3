@@ -1,0 +1,32 @@
+Autor: Łukasz Pyrek
+
+
+Biblioteki:
+numpy, pandas, graphviz
+
+Opis funkcji:
+
+entropia(table)
+
+	funkcja obliczająca entropię dla danej tabeli.
+	W tym celu wyznaczane są prawdopodobieństwa wystąpienia poszczególnych konkluzji i na ich podstawie obliczana jest entropia.
+
+informacja(table, atrybut) -
+	funkcja obliczająca zysk informacyjny dla danego atrybutu. W tym celu tabela jest dzielona na dwie podtabeli:
+	jedna zawierająca wiersze potwierdzające atrybut, a druga zawierająca wiersze zaprzeczające atrybut.
+	Następnie dla każdej podtabeli wyznaczana jest entropia, a na ich podstawie obliczany jest zysk informacyjny.
+
+max_informacja(table) -
+	funkcja wyznaczająca atrybut o największym zysku informacyjnym dla danej tabeli.
+
+isConclusion(table) -
+	funkcja sprawdzająca, czy tabela zawiera tylko jedną konkluzję.
+
+podzial(table, atrybut) - 
+	funkcja dzieląca tabelę na dwie podtabeli na podstawie danego atrybutu.
+id3(table, parent_idx = None, tree = Digraph()) -
+	funkcja budująca drzewo decyzyjne. Na początku wyznaczany jest atrybut o największym zysku informacyjnym.
+	Następnie tabela jest dzielona na dwie podtabele na podstawie tego atrybutu, a dla każdej z nich rekurencyjnie wywoływana jest funkcja id3().
+	Jeśli w danej podtabeli występuje tylko jedna konkluzja, to tworzony jest liść z tą konkluzją.
+	W przeciwnym przypadku tworzony jest węzeł z kolejnym atrybutem o największym zysku informacyjnym.
+	Funkcja zwraca obiekt Digraph, który można narysować za pomocą funkcji render().

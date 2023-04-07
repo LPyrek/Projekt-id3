@@ -1,0 +1,217 @@
+Temperatura,WarunkiAtmosferyczne,Zajecia,Samopoczucie,CzyWrociszPozno,Konkluzja
+<5,Slonecznie,Wyklady,dobrze,Tak,Isc na miasteczko studenckie
+<5,Slonecznie,Wyklady,dobrze,Nie,Isc na miasteczko studenckie
+<5,Slonecznie,Wyklady,Srednio,Tak,Isc do baru
+<5,Slonecznie,Wyklady,Srednio,Nie,Isc do baru
+<5,Slonecznie,Wyklady,zle,Tak,Zostac w domu
+<5,Slonecznie,Wyklady,zle,Nie,Zostac w domu
+<5,Slonecznie,Cwiczenia,dobrze,Tak,Zostac w domu
+<5,Slonecznie,Cwiczenia,dobrze,Nie,Isc na miasteczko studenckie
+<5,Slonecznie,Cwiczenia,Srednio,Tak,Zostac w domu
+<5,Slonecznie,Cwiczenia,Srednio,Nie,Isc do baru
+<5,Slonecznie,Cwiczenia,zle,Tak,Zostac w domu
+<5,Slonecznie,Cwiczenia,zle,Nie,Zostac w domu
+<5,Slonecznie,Praca,dobrze,Tak,Zostac w domu
+<5,Slonecznie,Praca,dobrze,Nie,Isc na miasteczko studenckie
+<5,Slonecznie,Praca,Srednio,Tak,Zostac w domu
+<5,Slonecznie,Praca,Srednio,Nie,Isc do baru
+<5,Slonecznie,Praca,zle,Tak,Zostac w domu
+<5,Slonecznie,Praca,zle,Nie,Zostac w domu
+<5,Slonecznie,Nic,dobrze,Tak,Isc na miasteczko studenckie
+<5,Slonecznie,Nic,dobrze,Nie,Isc na miasteczko studenckie
+<5,Slonecznie,Nic,Srednio,Tak,Isc do baru
+<5,Slonecznie,Nic,Srednio,Nie,Isc do baru
+<5,Slonecznie,Nic,zle,Tak,Zostac w domu
+<5,Slonecznie,Nic,zle,Nie,Zostac w domu
+<5,Pada deszcz,Wyklady,dobrze,Tak,Isc do baru
+<5,Pada deszcz,Wyklady,dobrze,Nie,Isc do baru
+<5,Pada deszcz,Wyklady,Srednio,Tak,Isc do baru
+<5,Pada deszcz,Wyklady,Srednio,Nie,Isc do baru
+<5,Pada deszcz,Wyklady,zle,Tak,Zostac w domu
+<5,Pada deszcz,Wyklady,zle,Nie,Zostac w domu
+<5,Pada deszcz,Cwiczenia,dobrze,Tak,Zostac w domu
+<5,Pada deszcz,Cwiczenia,dobrze,Nie,Isc do baru
+<5,Pada deszcz,Cwiczenia,Srednio,Tak,Zostac w domu
+<5,Pada deszcz,Cwiczenia,Srednio,Nie,Isc do baru
+<5,Pada deszcz,Cwiczenia,zle,Tak,Zostac w domu
+<5,Pada deszcz,Cwiczenia,zle,Nie,Zostac w domu
+<5,Pada deszcz,Praca,dobrze,Tak,Zostac w domu
+<5,Pada deszcz,Praca,dobrze,Nie,Isc do baru
+<5,Pada deszcz,Praca,Srednio,Tak,Zostac w domu
+<5,Pada deszcz,Praca,Srednio,Nie,Isc do baru
+<5,Pada deszcz,Praca,zle,Tak,Zostac w domu
+<5,Pada deszcz,Praca,zle,Nie,Zostac w domu
+<5,Pada deszcz,Nic,dobrze,Tak,Isc do baru
+<5,Pada deszcz,Nic,dobrze,Nie,Isc do baru
+<5,Pada deszcz,Nic,Srednio,Tak,Isc do baru
+<5,Pada deszcz,Nic,Srednio,Nie,Isc do baru
+<5,Pada deszcz,Nic,zle,Tak,Zostac w domu
+<5,Pada deszcz,Nic,zle,Nie,Zostac w domu
+<5,Mocno wieje,Wyklady,dobrze,Tak,Isc do baru
+<5,Mocno wieje,Wyklady,dobrze,Nie,Isc do baru
+<5,Mocno wieje,Wyklady,Srednio,Tak,Isc do baru
+<5,Mocno wieje,Wyklady,Srednio,Nie,Isc do baru
+<5,Mocno wieje,Wyklady,zle,Tak,Zostac w domu
+<5,Mocno wieje,Wyklady,zle,Nie,Zostac w domu
+<5,Mocno wieje,Cwiczenia,dobrze,Tak,Zostac w domu
+<5,Mocno wieje,Cwiczenia,dobrze,Nie,Isc do baru
+<5,Mocno wieje,Cwiczenia,Srednio,Tak,Zostac w domu
+<5,Mocno wieje,Cwiczenia,Srednio,Nie,Isc do baru
+<5,Mocno wieje,Cwiczenia,zle,Tak,Zostac w domu
+<5,Mocno wieje,Cwiczenia,zle,Nie,Zostac w domu
+<5,Mocno wieje,Praca,dobrze,Tak,Zostac w domu
+<5,Mocno wieje,Praca,dobrze,Nie,Isc do baru
+<5,Mocno wieje,Praca,Srednio,Tak,Zostac w domu
+<5,Mocno wieje,Praca,Srednio,Nie,Isc do baru
+<5,Mocno wieje,Praca,zle,Tak,Zostac w domu
+<5,Mocno wieje,Praca,zle,Nie,Zostac w domu
+<5,Mocno wieje,Nic,dobrze,Tak,Isc do baru
+<5,Mocno wieje,Nic,dobrze,Nie,Isc do baru
+<5,Mocno wieje,Nic,Srednio,Tak,Isc do baru
+<5,Mocno wieje,Nic,Srednio,Nie,Isc do baru
+<5,Mocno wieje,Nic,zle,Tak,Zostac w domu
+<5,Mocno wieje,Nic,zle,Nie,Zostac w domu
+5-15,Slonecznie,Wyklady,dobrze,Tak,Isc na miasteczko studenckie
+5-15,Slonecznie,Wyklady,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Wyklady,Srednio,Tak,Isc na miasteczko studenckie
+5-15,Slonecznie,Wyklady,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Wyklady,zle,Tak,Zostac w domu
+5-15,Slonecznie,Wyklady,zle,Nie,Zostac w domu
+5-15,Slonecznie,Cwiczenia,dobrze,Tak,Zostac w domu
+5-15,Slonecznie,Cwiczenia,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Cwiczenia,Srednio,Tak,Zostac w domu
+5-15,Slonecznie,Cwiczenia,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Cwiczenia,zle,Tak,Zostac w domu
+5-15,Slonecznie,Cwiczenia,zle,Nie,Zostac w domu
+5-15,Slonecznie,Praca,dobrze,Tak,Zostac w domu
+5-15,Slonecznie,Praca,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Praca,Srednio,Tak,Zostac w domu
+5-15,Slonecznie,Praca,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Praca,zle,Tak,Zostac w domu
+5-15,Slonecznie,Praca,zle,Nie,Zostac w domu
+5-15,Slonecznie,Nic,dobrze,Tak,Isc na miasteczko studenckie
+5-15,Slonecznie,Nic,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Nic,Srednio,Tak,Isc na miasteczko studenckie
+5-15,Slonecznie,Nic,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Slonecznie,Nic,zle,Tak,Zostac w domu
+5-15,Slonecznie,Nic,zle,Nie,Zostac w domu
+5-15,Pada deszcz,Wyklady,dobrze,Tak,Isc do baru
+5-15,Pada deszcz,Wyklady,dobrze,Nie,Isc do baru
+5-15,Pada deszcz,Wyklady,Srednio,Tak,Isc do baru
+5-15,Pada deszcz,Wyklady,Srednio,Nie,Isc do baru
+5-15,Pada deszcz,Wyklady,zle,Tak,Zostac w domu
+5-15,Pada deszcz,Wyklady,zle,Nie,Zostac w domu
+5-15,Pada deszcz,Cwiczenia,dobrze,Tak,Zostac w domu
+5-15,Pada deszcz,Cwiczenia,dobrze,Nie,Isc do baru
+5-15,Pada deszcz,Cwiczenia,Srednio,Tak,Zostac w domu
+5-15,Pada deszcz,Cwiczenia,Srednio,Nie,Isc do baru
+5-15,Pada deszcz,Cwiczenia,zle,Tak,Zostac w domu
+5-15,Pada deszcz,Cwiczenia,zle,Nie,Zostac w domu
+5-15,Pada deszcz,Praca,dobrze,Tak,Zostac w domu
+5-15,Pada deszcz,Praca,dobrze,Nie,Isc do baru
+5-15,Pada deszcz,Praca,Srednio,Tak,Zostac w domu
+5-15,Pada deszcz,Praca,Srednio,Nie,Isc do baru
+5-15,Pada deszcz,Praca,zle,Tak,Zostac w domu
+5-15,Pada deszcz,Praca,zle,Nie,Zostac w domu
+5-15,Pada deszcz,Nic,dobrze,Tak,Isc do baru
+5-15,Pada deszcz,Nic,dobrze,Nie,Isc do baru
+5-15,Pada deszcz,Nic,Srednio,Tak,Isc do baru
+5-15,Pada deszcz,Nic,Srednio,Nie,Isc do baru
+5-15,Pada deszcz,Nic,zle,Tak,Zostac w domu
+5-15,Pada deszcz,Nic,zle,Nie,Zostac w domu
+5-15,Mocno wieje,Wyklady,dobrze,Tak,Isc na miasteczko studenckie
+5-15,Mocno wieje,Wyklady,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Wyklady,Srednio,Tak,Isc na miasteczko studenckie
+5-15,Mocno wieje,Wyklady,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Wyklady,zle,Tak,Zostac w domu
+5-15,Mocno wieje,Wyklady,zle,Nie,Zostac w domu
+5-15,Mocno wieje,Cwiczenia,dobrze,Tak,Zostac w domu
+5-15,Mocno wieje,Cwiczenia,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Cwiczenia,Srednio,Tak,Zostac w domu
+5-15,Mocno wieje,Cwiczenia,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Cwiczenia,zle,Tak,Zostac w domu
+5-15,Mocno wieje,Cwiczenia,zle,Nie,Zostac w domu
+5-15,Mocno wieje,Praca,dobrze,Tak,Zostac w domu
+5-15,Mocno wieje,Praca,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Praca,Srednio,Tak,Zostac w domu
+5-15,Mocno wieje,Praca,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Praca,zle,Tak,Zostac w domu
+5-15,Mocno wieje,Praca,zle,Nie,Zostac w domu
+5-15,Mocno wieje,Nic,dobrze,Tak,Isc na miasteczko studenckie
+5-15,Mocno wieje,Nic,dobrze,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Nic,Srednio,Tak,Isc na miasteczko studenckie
+5-15,Mocno wieje,Nic,Srednio,Nie,Isc na miasteczko studenckie
+5-15,Mocno wieje,Nic,zle,Tak,Zostac w domu
+5-15,Mocno wieje,Nic,zle,Nie,Zostac w domu
+>15,Slonecznie,Wyklady,dobrze,Tak,Isc na miasteczko studenckie
+>15,Slonecznie,Wyklady,dobrze,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Wyklady,Srednio,Tak,Isc na miasteczko studenckie
+>15,Slonecznie,Wyklady,Srednio,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Wyklady,zle,Tak,Zostac w domu
+>15,Slonecznie,Wyklady,zle,Nie,Zostac w domu
+>15,Slonecznie,Cwiczenia,dobrze,Tak,Zostac w domu
+>15,Slonecznie,Cwiczenia,dobrze,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Cwiczenia,Srednio,Tak,Zostac w domu
+>15,Slonecznie,Cwiczenia,Srednio,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Cwiczenia,zle,Tak,Zostac w domu
+>15,Slonecznie,Cwiczenia,zle,Nie,Zostac w domu
+>15,Slonecznie,Praca,dobrze,Tak,Zostac w domu
+>15,Slonecznie,Praca,dobrze,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Praca,Srednio,Tak,Zostac w domu
+>15,Slonecznie,Praca,Srednio,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Praca,zle,Tak,Zostac w domu
+>15,Slonecznie,Praca,zle,Nie,Zostac w domu
+>15,Slonecznie,Nic,dobrze,Tak,Isc na miasteczko studenckie
+>15,Slonecznie,Nic,dobrze,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Nic,Srednio,Tak,Isc na miasteczko studenckie
+>15,Slonecznie,Nic,Srednio,Nie,Isc na miasteczko studenckie
+>15,Slonecznie,Nic,zle,Tak,Zostac w domu
+>15,Slonecznie,Nic,zle,Nie,Zostac w domu
+>15,Pada deszcz,Wyklady,dobrze,Tak,Isc na miasteczko studenckie
+>15,Pada deszcz,Wyklady,dobrze,Nie,Isc na miasteczko studenckie
+>15,Pada deszcz,Wyklady,Srednio,Tak,Isc do baru
+>15,Pada deszcz,Wyklady,Srednio,Nie,Isc do baru
+>15,Pada deszcz,Wyklady,zle,Tak,Zostac w domu
+>15,Pada deszcz,Wyklady,zle,Nie,Zostac w domu
+>15,Pada deszcz,Cwiczenia,dobrze,Tak,Zostac w domu
+>15,Pada deszcz,Cwiczenia,dobrze,Nie,Isc na miasteczko studenckie
+>15,Pada deszcz,Cwiczenia,Srednio,Tak,Zostac w domu
+>15,Pada deszcz,Cwiczenia,Srednio,Nie,Isc do baru
+>15,Pada deszcz,Cwiczenia,zle,Tak,Zostac w domu
+>15,Pada deszcz,Cwiczenia,zle,Nie,Zostac w domu
+>15,Pada deszcz,Praca,dobrze,Tak,Zostac w domu
+>15,Pada deszcz,Praca,dobrze,Nie,Isc na miasteczko studenckie
+>15,Pada deszcz,Praca,Srednio,Tak,Zostac w domu
+>15,Pada deszcz,Praca,Srednio,Nie,Isc do baru
+>15,Pada deszcz,Praca,zle,Tak,Zostac w domu
+>15,Pada deszcz,Praca,zle,Nie,Zostac w domu
+>15,Pada deszcz,Nic,dobrze,Tak,Isc na miasteczko studenckie
+>15,Pada deszcz,Nic,dobrze,Nie,Isc na miasteczko studenckie
+>15,Pada deszcz,Nic,Srednio,Tak,Isc do baru
+>15,Pada deszcz,Nic,Srednio,Nie,Isc do baru
+>15,Pada deszcz,Nic,zle,Tak,Zostac w domu
+>15,Pada deszcz,Nic,zle,Nie,Zostac w domu
+>15,Mocno wieje,Wyklady,dobrze,Tak,Isc na miasteczko studenckie
+>15,Mocno wieje,Wyklady,dobrze,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Wyklady,Srednio,Tak,Isc na miasteczko studenckie
+>15,Mocno wieje,Wyklady,Srednio,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Wyklady,zle,Tak,Zostac w domu
+>15,Mocno wieje,Wyklady,zle,Nie,Zostac w domu
+>15,Mocno wieje,Cwiczenia,dobrze,Tak,Zostac w domu
+>15,Mocno wieje,Cwiczenia,dobrze,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Cwiczenia,Srednio,Tak,Zostac w domu
+>15,Mocno wieje,Cwiczenia,Srednio,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Cwiczenia,zle,Tak,Zostac w domu
+>15,Mocno wieje,Cwiczenia,zle,Nie,Zostac w domu
+>15,Mocno wieje,Praca,dobrze,Tak,Zostac w domu
+>15,Mocno wieje,Praca,dobrze,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Praca,Srednio,Tak,Zostac w domu
+>15,Mocno wieje,Praca,Srednio,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Praca,zle,Tak,Zostac w domu
+>15,Mocno wieje,Praca,zle,Nie,Zostac w domu
+>15,Mocno wieje,Nic,dobrze,Tak,Isc na miasteczko studenckie
+>15,Mocno wieje,Nic,dobrze,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Nic,Srednio,Tak,Isc na miasteczko studenckie
+>15,Mocno wieje,Nic,Srednio,Nie,Isc na miasteczko studenckie
+>15,Mocno wieje,Nic,zle,Tak,Zostac w domu
+>15,Mocno wieje,Nic,zle,Nie,Zostac w domu
